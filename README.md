@@ -19,13 +19,7 @@ Minimal configuration preferring built-in defaults
 Using uv (recommended):
 
 ```bash
-uv add my-python-tool
-```
-
-Using pip:
-
-```bash
-pip install my-python-tool
+uv add git+ssh://git@github.com/tenseventyseven/my-python-tool.git
 ```
 
 ## Usage
