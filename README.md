@@ -60,7 +60,7 @@ print(result)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/my-python-tool.git
+git clone https://github.com/tenseventyseven/my-python-tool.git
 cd my-python-tool
 
 # Install with development dependencies
